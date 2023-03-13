@@ -1,6 +1,8 @@
 
 target/
 
+dbt_packages/
+
 *.log
 
 .idea/
