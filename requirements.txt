@@ -1,0 +1,2 @@
+dbt-core==1.2.0
+dbt-greenplum==1.2.0
