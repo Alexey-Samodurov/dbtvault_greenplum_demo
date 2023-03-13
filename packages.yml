@@ -1,6 +1,7 @@
 packages:
-  # - package: Datavault-UK/dbtvault
-  #   version: 0.7.3
-  - git: "https://github.com/kzzzr/dbtvault.git"
+  - package: dbt-labs/codegen
+    version: 0.8.1
+#  - package: Datavault-UK/dbtvault
+#    version: 0.9.4
+  - git: "https://github.com/markporoshin/dbtvault.git"
     revision: master
-    warn-unpinned: false
